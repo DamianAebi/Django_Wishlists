@@ -6,7 +6,7 @@ Requirements to this project were:
 - Creating Models and configuring Serializers
 - ViewSets with correct permissions
 - Logging via logfile
-
+---
 To test it out:
 - create your own `.env`-File according to `.env.example`
 - run `pip install - r requirements.txt`
